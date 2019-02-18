@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://example.com"
 languageCode = "en-us"
-defaultContentLanguage = "pt"
-title = "Hello Hugo Site"
+defaultContentLanguage = "en"
+title = "Hugo Hermit"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -51,9 +51,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
-  #[[params.social]]
-  #  name = "twitter"
-  #  url = "https://twitter.com/"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/"
 
   [[params.social]]
     name = "instagram"
