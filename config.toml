@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "teste" #Adicione essa linha com o nome que da pasta que vc jogou na `themes`
+title = "Hello Hugo Site"
